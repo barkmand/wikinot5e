@@ -1,0 +1,25 @@
+.site-header{
+    max-width: 262px;
+    padding-left: 15px;
+    padding-top: 25px;
+    .logo-container{
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        line-height: 2.5rem;
+    }
+}
+
+
+.logo{
+    color: whitesmoke;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+}
+
+.subtitle{
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.8);
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
